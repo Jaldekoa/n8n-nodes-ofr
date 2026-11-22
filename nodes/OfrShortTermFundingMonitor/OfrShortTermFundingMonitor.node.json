@@ -1,0 +1,13 @@
+{
+	"node": "n8n-nodes-ofr.ofrShortTermFundingMonitor",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Finance & Accounting", "Data & Storage"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://www.financialresearch.gov/short-term-funding-monitor/"
+			}
+		]
+	}
+}
