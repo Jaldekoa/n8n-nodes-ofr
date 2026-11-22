@@ -45,7 +45,7 @@ export function parseCsv(text: string): string[][] {
 	let row: string[] = [];
 	let field = '';
 	let inQuotes = false;
-	const input = text.replace(/^﻿/, '');
+	const input = text.replace(/^\uFEFF/, '');
 
 	for (let i = 0; i < input.length; i++) {
 		const char = input[i];
