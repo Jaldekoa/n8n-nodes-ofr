@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-ofr",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "n8n community nodes for the U.S. Office of Financial Research (OFR): Hedge Fund Monitor API, Short-term Funding Monitor API and Financial Stress Index",
 	"license": "MIT",
 	"homepage": "https://github.com/Jaldekoa/n8n-nodes-ofr",
@@ -54,6 +54,6 @@
 		"n8n-workflow": "*"
 	},
 	"publishConfig": {
-	  "access": "public"
+		"access": "public"
 	}
 }
